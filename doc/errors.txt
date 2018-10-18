@@ -1,0 +1,42 @@
+0:No errors
+1:Module not inited
+2:CREG timeout
+3:ATE error
+4:IPR error
+5:CREG error
+6:CMGF error
+7:CNMI error
+8:DDET error
+9:ATW error
+10:CGATT error
+11:CGATT timeout
+12:CIPMUX error
+13:CIPMUX timeout
+14:CSTT error
+15:CSTT timeout
+16:CIICR error
+17:CIICR timeout
+18:CIFSR error
+19:CIFSR timeout
+20:CIPSHUT error
+21:CIPSHUT timeout
+22:CIPSERVER error
+23:CIPSERVER timeout
+24:CIPSERVER stop errror
+25:CIPSERVER stop timeout
+26:CIPSTART error
+27:CIPSTART timeout
+28:CIPCLOSE error
+29:CIPCLOSE timeout
+30:CIPSEND error
+31:CIPSEND timeout
+32:CMGD error
+33:CMGS error
+34:CMGS timeout
+35:Call error
+36:Call timeout
+37:DTMF error
+38:DTMF timeout
+39:CLIP error
+40:REINIT error
+41:REINIT timeout
